@@ -36,7 +36,7 @@ Tools        Git · GitHub · GitLab · VS Code · Linux
 
 ## Let's connect
 
-I'm currently seeking remote internship opportunities in software engineering and mobile/full-stack development.
+I'm currently seeking internship opportunities in software engineering and mobile/full-stack development.
 
 Email: makkapatiabhiram@gmail.com  
 LinkedIn: https://linkedin.com/in/abhirammakkapati  
