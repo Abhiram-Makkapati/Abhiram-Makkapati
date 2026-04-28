@@ -4,13 +4,13 @@
 
 # Hey, I'm Abhiram
 
-I'm a Computer Science student at the University of North Texas who enjoys building practical tools that improve how students interact with campus life.
+I am a Computer Science student at the University of North Texas who enjoys building useful applications that make campus life easier for students.
 
-I’ve worked on projects like a student carpooling app, a university platform that connects events, marketplace listings, and collaborations, and a micro-gigs system designed for academic environments.
+I have worked on projects like a student carpooling app, a university platform that connects events, marketplace listings, and student collaborations, and a micro-gigs platform for academic opportunities.
 
-I'm comfortable across the stack — mobile apps with React Native and Flutter, backend services with Python and FastAPI, cloud storage with AWS, and data workflows using Pandas and Power BI. I enjoy designing systems end-to-end and understanding how components connect together.
+I am comfortable working across the stack, including mobile development with React Native and Flutter, backend development with Python and FastAPI, cloud tools like AWS, and data analysis using Pandas and Power BI. I enjoy building complete systems and understanding how different parts of a project work together.
 
-Currently looking for remote internships in software engineering, full-stack development, or mobile app development.
+I am currently looking for remote internship opportunities in software engineering, full-stack development, or mobile app development.
 
 ---
 
