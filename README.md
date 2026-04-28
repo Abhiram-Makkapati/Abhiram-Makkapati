@@ -10,7 +10,7 @@ I have worked on projects like a student carpooling app, a university platform t
 
 I am comfortable working across the stack, including mobile development with React Native and Flutter, backend development with Python and FastAPI, cloud tools like AWS, and data analysis using Pandas and Power BI. I enjoy building complete systems and understanding how different parts of a project work together.
 
-I am currently looking for remote internship opportunities in software engineering, full-stack development, or mobile app development.
+I am currently looking for internship/Full time job opportunities in software engineering, full-stack development, or mobile app development.
 
 ---
 
