@@ -29,13 +29,6 @@ Currently looking for remote internships in software engineering, full-stack dev
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Abhiram-Makkapati&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
 
 ## What I'm working on
 
