@@ -28,25 +28,6 @@ Currently looking for remote internships in software engineering, full-stack dev
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
 
----
-
-<div align="center">
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=Abhiram-Makkapati&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Abhiram-Makkapati&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhiram-Makkapati&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-
-</div>
-
----
 
 <p align="center">
 
